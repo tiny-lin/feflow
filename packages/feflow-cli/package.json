@@ -41,6 +41,7 @@
     "@types/osenv": "^0.1.0",
     "@types/request-promise": "^4.1.45",
     "@types/semver": "^6.0.1",
+    "@types/table": "^5.0.0",
     "@types/yeoman-environment": "^2.3.1",
     "chai": "^4.2.0",
     "conventional-changelog-cli": "^2.0.27",
@@ -74,6 +75,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "strip-json-comments": "^3.0.1",
+    "table": "^5.4.6",
     "yeoman-environment": "^2.4.0"
   },
   "engines": {
